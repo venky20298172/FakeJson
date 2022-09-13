@@ -1,1 +1,92 @@
-{"message":"hey hi","status":"success"}
+{
+  "restaurents" :[
+   {
+    "id": 1,
+    "title": "ABC Restaurent",
+    "category": "Biryani Special",
+    "image": "",
+    "rating": "3.5",
+    "items": [
+      {
+        "itemId": "10",
+        "itemName": "Chicken Biryani",
+        "price": 199
+      },
+      {
+        "itemId": "11",
+        "itemName": "Mutton Biryani",
+        "price": 249
+      },
+      {
+        "itemId": "12",
+        "itemName": "Veg biryani",
+        "price": 150
+      },
+       {
+        "itemId": "13",
+        "itemName": "Cool drinks",
+        "price": 50
+      }
+    ]
+  },
+  
+  {
+    "id": 2,
+    "title": "Ap Grand Restaurent",
+    "category": "Andhra Special",
+    "image": "",
+    "rating": "4.0",
+    "items": [
+      {
+        "itemId": "20",
+        "itemName": "Chicken Biryani",
+        "price": 149
+      },
+      {
+        "itemId": "11",
+        "itemName": "Mutton Biryani",
+        "price": 200
+      },
+      {
+        "itemId": "22",
+        "itemName": "Hydabad biryani",
+        "price": 250
+      },
+       {
+        "itemId": "23",
+        "itemName": "vegetable palav",
+        "price": 200
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Beach Restaurent",
+    "category": "Sea Food",
+    "image": "",
+    "rating": "4.5",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Fish Curry",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Prawns Biryani",
+        "price": 400
+      },
+      {
+        "itemId": "32",
+        "itemName": "Hydabad biryani",
+        "price": 250
+      },
+       {
+        "itemId": "33",
+        "itemName": "Fish & prawns mandi",
+        "price": 900
+      }
+    ]
+  }
+  ]
+}  
