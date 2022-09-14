@@ -208,7 +208,7 @@
     "id": 8,
     "NameOfRestaurent": "Chinese Special",
     "category": "Fast Foods",
-    "image": "https://th.bing.com/th/id/OIP.8K-9E4G8Zh3tlAwHDPikyQHaF0?w=228&h=180&c=7&r=0&o=5&pid=1.7"
+    "image": "https://th.bing.com/th/id/OIP.8K-9E4G8Zh3tlAwHDPikyQHaF0?w=228&h=180&c=7&r=0&o=5&pid=1.7",
      "rating": "3.8",
     "items": [
       {
@@ -237,7 +237,7 @@
     "id": 9,
     "NameOfRestaurent": "Royal tiffin center",
     "category": "pure veg",
-    "image": "https://th.bing.com/th/id/OIP.Y1NzdpoeHLTaXIoC9HEVSwHaHa?w=184&h=184&c=7&r=0&o=5&pid=1.7"
+    "image": "https://th.bing.com/th/id/OIP.Y1NzdpoeHLTaXIoC9HEVSwHaHa?w=184&h=184&c=7&r=0&o=5&pid=1.7",
       "rating": "4.3",
     "items": [
       {
@@ -266,7 +266,7 @@
     "id": 10,
     "NameOfRestaurent": "KFC",
     "category": "Burger,Fast Food,Biryani",
-    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7"
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
      "rating": "4.1",
     "items": [
       {
