@@ -89,11 +89,11 @@
     ]
   },
     {
-    "id": 3,
-    "NameOfRestaurent": "Beach Restaurent",
-    "category": "Sea Food",
+    "id": 4,
+    "NameOfRestaurent": "Paradise",
+    "category": "Biryani,North Indian",
     "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
-    "rating": "4.5",
+    "rating": "4.0",
     "items": [
       {
         "itemId": "30",
@@ -118,11 +118,11 @@
     ]
   },
     {
-    "id": 3,
-    "NameOfRestaurent": "Beach Restaurent",
-    "category": "Sea Food",
+    "id": 5,
+    "NameOfRestaurent": "Mehfil",
+    "category": "North Indian",
     "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
-    "rating": "4.5",
+    "rating": "3.9",
     "items": [
       {
         "itemId": "30",
@@ -147,11 +147,11 @@
     ]
   },
     {
-    "id": 3,
-    "NameOfRestaurent": "Beach Restaurent",
-    "category": "Sea Food",
+    "id": 6,
+    "NameOfRestaurent": "Meridian",
+    "category": "All Mandi's",
     "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
-    "rating": "4.5",
+    "rating": "4.7",
     "items": [
       {
         "itemId": "30",
@@ -176,11 +176,11 @@
     ]
   },
     {
-    "id": 3,
-    "NameOfRestaurent": "Beach Restaurent",
-    "category": "Sea Food",
+    "id": 7,
+    "NameOfRestaurent": "South Indian Restaurent",
+    "category": "Pure Veg",
     "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
-    "rating": "4.5",
+    "rating": "4.8",
     "items": [
       {
         "itemId": "30",
@@ -205,11 +205,11 @@
     ]
   },
     {
-    "id": 3,
-    "NameOfRestaurent": "Beach Restaurent",
-    "category": "Sea Food",
+    "id": 8,
+    "NameOfRestaurent": "Chinese Special",
+    "category": "Fast Foods",
     "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
-    "rating": "4.5",
+    "rating": "3.8",
     "items": [
       {
         "itemId": "30",
@@ -234,11 +234,11 @@
     ]
   },
     {
-    "id": 3,
-    "NameOfRestaurent": "Beach Restaurent",
-    "category": "Sea Food",
+    "id": 9,
+    "NameOfRestaurent": "Royal tiffin center",
+    "category": "pure veg",
     "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
-    "rating": "4.5",
+    "rating": "4.3",
     "items": [
       {
         "itemId": "30",
@@ -263,11 +263,11 @@
     ]
   },
     {
-    "id": 3,
-    "NameOfRestaurent": "Beach Restaurent",
-    "category": "Sea Food",
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
     "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
-    "rating": "4.5",
+    "rating": "4.1",
     "items": [
       {
         "itemId": "30",
@@ -292,11 +292,11 @@
     ]
   },
     {
-    "id": 3,
-    "NameOfRestaurent": "Beach Restaurent",
-    "category": "Sea Food",
+    "id": 11,
+    "NameOfRestaurent": "pizza hut",
+    "category": "Pizza,Fast foods,Desserts",
     "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
-    "rating": "4.5",
+    "rating": "3.8",
     "items": [
       {
         "itemId": "30",
@@ -321,9 +321,9 @@
     ]
   },
     {
-    "id": 3,
-    "NameOfRestaurent": "Beach Restaurent",
-    "category": "Sea Food",
+    "id": 12,
+    "NameOfRestaurent": "Dominos",
+    "category": "Pizaa & Desserts",
     "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
     "rating": "4.5",
     "items": [
