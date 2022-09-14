@@ -2,7 +2,7 @@
   "restaurents" :[
    {
     "id": 1,
-    "title": "ABC Restaurent",
+    "NameOfRestaurent": "ABC Restaurent",
     "category": "Biryani Special",
     "image": "https://www.bing.com/th?id=OIP.f9Ng-73ZMEfbfjNPAT-YSAHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
     "rating": "3.5",
@@ -32,7 +32,7 @@
   
   {
     "id": 2,
-    "title": "Ap Grand Restaurent",
+    "NameOfRestaurent": "Ap Grand Restaurent",
     "category": "Andhra Special",
     "image": "https://th.bing.com/th/id/OIP.p1FRE3vozT_0A_PtH1lxOAHaE_?w=244&h=180&c=7&r=0&o=5&pid=1.7",
     "rating": "4.0",
@@ -61,7 +61,268 @@
   },
   {
     "id": 3,
-    "title": "Beach Restaurent",
+    "NameOfRestaurent": "Beach Restaurent",
+    "category": "Sea Food",
+    "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
+    "rating": "4.5",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Fish Curry",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Prawns Biryani",
+        "price": 400
+      },
+      {
+        "itemId": "32",
+        "itemName": "Hydabad biryani",
+        "price": 250
+      },
+       {
+        "itemId": "33",
+        "itemName": "Fish & prawns mandi",
+        "price": 900
+      }
+    ]
+  },
+    {
+    "id": 3,
+    "NameOfRestaurent": "Beach Restaurent",
+    "category": "Sea Food",
+    "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
+    "rating": "4.5",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Fish Curry",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Prawns Biryani",
+        "price": 400
+      },
+      {
+        "itemId": "32",
+        "itemName": "Hydabad biryani",
+        "price": 250
+      },
+       {
+        "itemId": "33",
+        "itemName": "Fish & prawns mandi",
+        "price": 900
+      }
+    ]
+  },
+    {
+    "id": 3,
+    "NameOfRestaurent": "Beach Restaurent",
+    "category": "Sea Food",
+    "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
+    "rating": "4.5",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Fish Curry",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Prawns Biryani",
+        "price": 400
+      },
+      {
+        "itemId": "32",
+        "itemName": "Hydabad biryani",
+        "price": 250
+      },
+       {
+        "itemId": "33",
+        "itemName": "Fish & prawns mandi",
+        "price": 900
+      }
+    ]
+  },
+    {
+    "id": 3,
+    "NameOfRestaurent": "Beach Restaurent",
+    "category": "Sea Food",
+    "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
+    "rating": "4.5",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Fish Curry",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Prawns Biryani",
+        "price": 400
+      },
+      {
+        "itemId": "32",
+        "itemName": "Hydabad biryani",
+        "price": 250
+      },
+       {
+        "itemId": "33",
+        "itemName": "Fish & prawns mandi",
+        "price": 900
+      }
+    ]
+  },
+    {
+    "id": 3,
+    "NameOfRestaurent": "Beach Restaurent",
+    "category": "Sea Food",
+    "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
+    "rating": "4.5",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Fish Curry",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Prawns Biryani",
+        "price": 400
+      },
+      {
+        "itemId": "32",
+        "itemName": "Hydabad biryani",
+        "price": 250
+      },
+       {
+        "itemId": "33",
+        "itemName": "Fish & prawns mandi",
+        "price": 900
+      }
+    ]
+  },
+    {
+    "id": 3,
+    "NameOfRestaurent": "Beach Restaurent",
+    "category": "Sea Food",
+    "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
+    "rating": "4.5",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Fish Curry",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Prawns Biryani",
+        "price": 400
+      },
+      {
+        "itemId": "32",
+        "itemName": "Hydabad biryani",
+        "price": 250
+      },
+       {
+        "itemId": "33",
+        "itemName": "Fish & prawns mandi",
+        "price": 900
+      }
+    ]
+  },
+    {
+    "id": 3,
+    "NameOfRestaurent": "Beach Restaurent",
+    "category": "Sea Food",
+    "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
+    "rating": "4.5",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Fish Curry",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Prawns Biryani",
+        "price": 400
+      },
+      {
+        "itemId": "32",
+        "itemName": "Hydabad biryani",
+        "price": 250
+      },
+       {
+        "itemId": "33",
+        "itemName": "Fish & prawns mandi",
+        "price": 900
+      }
+    ]
+  },
+    {
+    "id": 3,
+    "NameOfRestaurent": "Beach Restaurent",
+    "category": "Sea Food",
+    "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
+    "rating": "4.5",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Fish Curry",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Prawns Biryani",
+        "price": 400
+      },
+      {
+        "itemId": "32",
+        "itemName": "Hydabad biryani",
+        "price": 250
+      },
+       {
+        "itemId": "33",
+        "itemName": "Fish & prawns mandi",
+        "price": 900
+      }
+    ]
+  },
+    {
+    "id": 3,
+    "NameOfRestaurent": "Beach Restaurent",
+    "category": "Sea Food",
+    "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
+    "rating": "4.5",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Fish Curry",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Prawns Biryani",
+        "price": 400
+      },
+      {
+        "itemId": "32",
+        "itemName": "Hydabad biryani",
+        "price": 250
+      },
+       {
+        "itemId": "33",
+        "itemName": "Fish & prawns mandi",
+        "price": 900
+      }
+    ]
+  },
+    {
+    "id": 3,
+    "NameOfRestaurent": "Beach Restaurent",
     "category": "Sea Food",
     "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
     "rating": "4.5",
