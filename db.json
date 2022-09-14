@@ -92,7 +92,7 @@
     "id": 4,
     "NameOfRestaurent": "Paradise",
     "category": "Biryani,North Indian",
-    "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
+    "image": "https://th.bing.com/th/id/OIP.2zn2XPnBr-i8P-TmZqGKQgHaE8?w=246&h=180&c=7&r=0&o=5&pid=1.7",
     "rating": "4.0",
     "items": [
       {
@@ -121,8 +121,8 @@
     "id": 5,
     "NameOfRestaurent": "Mehfil",
     "category": "North Indian",
-    "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
-    "rating": "3.9",
+    "image": "https://th.bing.com/th/id/OIP.b_d8WAWqfxAl8FUTIlIgKAHaE8?w=233&h=184&c=7&r=0&o=5&pid=1.7",
+     "rating": "3.9",
     "items": [
       {
         "itemId": "30",
@@ -150,7 +150,7 @@
     "id": 6,
     "NameOfRestaurent": "Meridian",
     "category": "All Mandi's",
-    "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
+    "image": "https://th.bing.com/th/id/OIP.F8B0jCbC-006p8SXFYb5CwHaEK?w=286&h=180&c=7&r=0&o=5&pid=1.7",
     "rating": "4.7",
     "items": [
       {
@@ -179,7 +179,7 @@
     "id": 7,
     "NameOfRestaurent": "South Indian Restaurent",
     "category": "Pure Veg",
-    "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
+    "image": "https://i.pinimg.com/originals/df/74/83/df74834278e5c1e9dea93f9fd70ba56f.jpg",
     "rating": "4.8",
     "items": [
       {
@@ -208,8 +208,8 @@
     "id": 8,
     "NameOfRestaurent": "Chinese Special",
     "category": "Fast Foods",
-    "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
-    "rating": "3.8",
+    "image": "https://th.bing.com/th/id/OIP.8K-9E4G8Zh3tlAwHDPikyQHaF0?w=228&h=180&c=7&r=0&o=5&pid=1.7"
+     "rating": "3.8",
     "items": [
       {
         "itemId": "30",
@@ -237,8 +237,8 @@
     "id": 9,
     "NameOfRestaurent": "Royal tiffin center",
     "category": "pure veg",
-    "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
-    "rating": "4.3",
+    "image": "https://th.bing.com/th/id/OIP.Y1NzdpoeHLTaXIoC9HEVSwHaHa?w=184&h=184&c=7&r=0&o=5&pid=1.7"
+      "rating": "4.3",
     "items": [
       {
         "itemId": "30",
@@ -266,8 +266,8 @@
     "id": 10,
     "NameOfRestaurent": "KFC",
     "category": "Burger,Fast Food,Biryani",
-    "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
-    "rating": "4.1",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7"
+     "rating": "4.1",
     "items": [
       {
         "itemId": "30",
