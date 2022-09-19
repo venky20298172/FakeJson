@@ -78,7 +78,7 @@
       },
       {
         "itemId": "32",
-        "itemName": "Hydabad biryani",
+        "itemName": "Hyderabad biryani",
         "price": 250
       },
        {
@@ -107,7 +107,7 @@
       },
       {
         "itemId": "32",
-        "itemName": "Hydabad biryani",
+        "itemName": "Chicken biryani",
         "price": 250
       },
        {
@@ -126,7 +126,7 @@
     "items": [
       {
         "itemId": "30",
-        "itemName": "Fish Curry",
+        "itemName": "chicken biryani",
         "price": 179
       },
       {
@@ -136,12 +136,12 @@
       },
       {
         "itemId": "32",
-        "itemName": "Hydabad biryani",
+        "itemName": "Hyderabad biryani",
         "price": 250
       },
        {
         "itemId": "33",
-        "itemName": "Fish & prawns mandi",
+        "itemName": "Biryani Family Pack",
         "price": 900
       }
     ]
@@ -155,12 +155,12 @@
     "items": [
       {
         "itemId": "30",
-        "itemName": "Fish Curry",
+        "itemName": "Mutton Biryani",
         "price": 179
       },
       {
         "itemId": "31",
-        "itemName": "Prawns Biryani",
+        "itemName": "Chicken Biryani",
         "price": 400
       },
       {
@@ -170,7 +170,7 @@
       },
        {
         "itemId": "33",
-        "itemName": "Fish & prawns mandi",
+        "itemName": "Cool Drinks",
         "price": 900
       }
     ]
@@ -184,23 +184,23 @@
     "items": [
       {
         "itemId": "30",
-        "itemName": "Fish Curry",
+        "itemName": "Veg Biryani",
         "price": 179
       },
       {
         "itemId": "31",
-        "itemName": "Prawns Biryani",
+        "itemName": "Cool Drinks",
         "price": 400
       },
       {
         "itemId": "32",
-        "itemName": "Hydabad biryani",
+        "itemName": "Kaju Paneer",
         "price": 250
       },
        {
         "itemId": "33",
-        "itemName": "Fish & prawns mandi",
-        "price": 900
+        "itemName": "Butter Naan",
+        "price": 90
       }
     ]
   },
@@ -213,23 +213,23 @@
     "items": [
       {
         "itemId": "30",
-        "itemName": "Fish Curry",
-        "price": 179
+        "itemName": "Chinese Noodles
+        "price": 99
       },
       {
         "itemId": "31",
-        "itemName": "Prawns Biryani",
-        "price": 400
+        "itemName": "Gobi Manchuria",
+        "price": 60
       },
       {
         "itemId": "32",
-        "itemName": "Hydabad biryani",
-        "price": 250
+        "itemName": "Chicken Fried Rice",
+        "price": 100
       },
        {
         "itemId": "33",
-        "itemName": "Fish & prawns mandi",
-        "price": 900
+        "itemName": "Chicken soup",
+        "price": 75
       }
     ]
   },
@@ -242,23 +242,23 @@
     "items": [
       {
         "itemId": "30",
-        "itemName": "Fish Curry",
-        "price": 179
+        "itemName": "Plain Dosa",
+        "price": 30
       },
       {
         "itemId": "31",
-        "itemName": "Prawns Biryani",
-        "price": 400
+        "itemName": "Onion Dosa",
+        "price": 40
       },
       {
         "itemId": "32",
-        "itemName": "Hydabad biryani",
-        "price": 250
+        "itemName": "Idli",
+        "price": 20
       },
        {
         "itemId": "33",
-        "itemName": "Fish & prawns mandi",
-        "price": 900
+        "itemName": "puri",
+        "price": 40
       }
     ]
   },
@@ -271,23 +271,23 @@
     "items": [
       {
         "itemId": "30",
-        "itemName": "Fish Curry",
+        "itemName": "Hot Chicken Wings-4pc",
         "price": 179
       },
       {
         "itemId": "31",
-        "itemName": "Prawns Biryani",
-        "price": 400
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
       },
       {
         "itemId": "32",
-        "itemName": "Hydabad biryani",
-        "price": 250
+        "itemName": "chicken Burger",
+        "price": 499
       },
        {
         "itemId": "33",
-        "itemName": "Fish & prawns mandi",
-        "price": 900
+        "itemName": "Cool Drinks",
+        "price": 129
       }
     ]
   },
@@ -300,23 +300,23 @@
     "items": [
       {
         "itemId": "30",
-        "itemName": "Fish Curry",
+        "itemName": "pizza",
         "price": 179
       },
       {
         "itemId": "31",
-        "itemName": "Prawns Biryani",
-        "price": 400
+        "itemName": "Cool Drinks",
+        "price": 99
       },
       {
         "itemId": "32",
-        "itemName": "Hydabad biryani",
+        "itemName" :"chicken pizza",
         "price": 250
       },
        {
         "itemId": "33",
-        "itemName": "Fish & prawns mandi",
-        "price": 900
+        "itemName": "veg pizza",
+        "price": 80
       }
     ]
   },
@@ -329,23 +329,23 @@
     "items": [
       {
         "itemId": "30",
-        "itemName": "Fish Curry",
+        "itemName": "Veg Pizza",
         "price": 179
       },
       {
         "itemId": "31",
-        "itemName": "Prawns Biryani",
+        "itemName": "Paneer Pizza",
         "price": 400
       },
       {
         "itemId": "32",
-        "itemName": "Hydabad biryani",
+        "itemName": "Chicken Pizza",
         "price": 250
       },
        {
         "itemId": "33",
-        "itemName": "Fish & prawns mandi",
-        "price": 900
+        "itemName": "Cool Drinks",
+        "price": 100
       }
     ]
   }
