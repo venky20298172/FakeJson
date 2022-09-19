@@ -291,7 +291,7 @@
       }
     ]
   },
-    {
+      {
     "id": 11,
     "NameOfRestaurent": "pizza hut",
     "category": "Pizza,Fast foods,Desserts",
@@ -313,13 +313,13 @@
         "itemName" :"chicken pizza",
         "price": 250
       },
-       {
-        "itemId": "33",
-        "itemName": "veg pizza",
-        "price": 80
+      {
+        "itemId": "32",
+        "itemName" :"chicken pizza",
+        "price": 250
       }
-    ]
-  },
+     ]
+   },     
     {
     "id": 12,
     "NameOfRestaurent": "Dominos",
@@ -348,6 +348,731 @@
         "price": 100
       }
     ]
-  }
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
+     {
+    "id": 10,
+    "NameOfRestaurent": "KFC",
+    "category": "Burger,Fast Food,Biryani",
+    "image": "https://th.bing.com/th/id/OIP.xmknUpn9L9ueYzz52MT-eAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+     "rating": "4.1",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Hot Chicken Wings-4pc",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Popcorn Chicken Biryani Bucket",
+        "price": 229
+      },
+      {
+        "itemId": "32",
+        "itemName": "chicken Burger",
+        "price": 499
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 129
+      }
+    ]
+  },
   ]
 }  
