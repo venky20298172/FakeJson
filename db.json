@@ -348,6 +348,35 @@
         "price": 100
       }
     ]
-  } 
+  },     
+    {
+    "id": 12,
+    "NameOfRestaurent": "Dominos",
+    "category": "Pizaa & Desserts",
+    "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
+    "rating": "4.5",
+    "items": [
+      {
+        "itemId": "30",
+        "itemName": "Veg Pizza",
+        "price": 179
+      },
+      {
+        "itemId": "31",
+        "itemName": "Paneer Pizza",
+        "price": 400
+      },
+      {
+        "itemId": "32",
+        "itemName": "Chicken Pizza",
+        "price": 250
+      },
+       {
+        "itemId": "33",
+        "itemName": "Cool Drinks",
+        "price": 100
+      }
+    ]
+  }
   ]
 }  
