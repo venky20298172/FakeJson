@@ -155,17 +155,17 @@
     "items": [
       {
         "itemId": "30",
-        "itemName": "Mutton Biryani",
+        "itemName": "Mutton mandi",
         "price": 179
       },
       {
         "itemId": "31",
-        "itemName": "Chicken Biryani",
+        "itemName": "Chicken mandi",
         "price": 400
       },
       {
         "itemId": "32",
-        "itemName": "Hydabad biryani",
+        "itemName": "Hydabad mandi",
         "price": 250
       },
        {
