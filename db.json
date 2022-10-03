@@ -245,41 +245,6 @@
         "itemImage":"https://th.bing.com/th/id/R.40f351c2cd7c6b3d9bd9ec379418a020?rik=gqpTpuJV6xtSGw&riu=http%3a%2f%2f1.bp.blogspot.com%2f-oH3DzMR5xc0%2fVUjS6uNGJYI%2fAAAAAAAAFZs%2fhA46R2b5SjQ%2fs1600%2fnaan.jpg&ehk=ZI2GFumRL5jy%2bQSK0Jq5BOOdlbLtNcNd4Fr5npiMwWE%3d&risl=&pid=ImgRaw&r=0"
       }
     ]
-  },
-    {
-    "id": 8,
-    "NameOfRestaurent": "Chinese Special",
-    "category": "Fast Foods",
-    "image": "https://th.bing.com/th/id/OIP.8K-9E4G8Zh3tlAwHDPikyQHaF0?w=228&h=180&c=7&r=0&o=5&pid=1.7",
-     "rating": "3.8",
-      "Address":"6-3-697/1, Officers Colony, Punjagutta Cross Road, Punjagutta, Hyderabad, Telangana,India-500112",
-      "summary":"We prepare and serve delicious food We have a wide variety of food you can try our food once in a while.we are offering take-out and food delivery services.",
-    "items": [
-      {
-        "itemId": "30",
-        "itemName": "Chinese Noodles",
-        "price": 99,
-        "itemImage":"https://th.bing.com/th/id/OIP.nsRO0D1s6jDn0xxeXgaKMgHaE8?w=280&h=187&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "31",
-        "itemName": "Gobi Manchuria",
-        "price": 60,
-        "itemImage":"https://th.bing.com/th/id/OIP.M4kTjIVjp3yN1EAmNU16zQHaEK?w=272&h=180&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "32",
-        "itemName": "Chicken Fried Rice",
-        "price": 100,
-        "itemImage":"https://th.bing.com/th/id/OIP.10gKfeKpzQUy2j-mq1OIwwHaLH?w=185&h=278&c=7&r=0&o=5&pid=1.7"
-      },
-       {
-        "itemId": "33",
-        "itemName": "Chicken soup",
-        "price": 75,
-        "itemImage":"https://th.bing.com/th/id/OIP.qZCn8GnPJw3fzgBYVoIosAHaGI?w=214&h=180&c=7&r=0&o=5&pid=1.7"
-      }
-    ]
-  }  
+  } 
   ]
 }  
