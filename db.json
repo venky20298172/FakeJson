@@ -210,41 +210,6 @@
         "itemImage":"https://th.bing.com/th/id/OIP.j6Gmqf3U_jrjhi6pl-MzvAHaFa?w=239&h=180&c=7&r=0&o=5&pid=1.7"
       }
     ]
-  },
-    {
-    "id": 7,
-    "NameOfRestaurent": "South Indian Restaurent",
-    "category": "Pure Veg",
-    "image": "https://i.pinimg.com/originals/df/74/83/df74834278e5c1e9dea93f9fd70ba56f.jpg",
-    "rating": "4.8",
-     "Address":"6-3-697/1, Officers Colony, Punjagutta Cross Road, Punjagutta, Hyderabad, Telangana,India-500112",
-      "summary":"We prepare and serve delicious food We have a wide variety of food you can try our food once in a while.we are offering take-out and food delivery services.",
-    "items": [
-      {
-        "itemId": "30",
-        "itemName": "Veg Biryani",
-        "price": 179,
-        "itemImage":"https://th.bing.com/th/id/OIP.SArkCzJ7tP3yVKMtGwj5owHaE8?w=273&h=182&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "31",
-        "itemName": "Cool Drinks",
-        "price": 50,
-        "itemImage":"https://th.bing.com/th/id/OIP.j6Gmqf3U_jrjhi6pl-MzvAHaFa?w=239&h=180&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "32",
-        "itemName": "Kaju Paneer",
-        "price": 250,
-        "itemImage":"https://th.bing.com/th/id/OIP.T_tkFkfUD19LjAcEd6sMowHaF6?w=214&h=180&c=7&r=0&o=5&pid=1.7"
-      },
-       {
-        "itemId": "33",
-        "itemName": "Butter Naan",
-        "price": 90,
-        "itemImage":"https://th.bing.com/th/id/R.40f351c2cd7c6b3d9bd9ec379418a020?rik=gqpTpuJV6xtSGw&riu=http%3a%2f%2f1.bp.blogspot.com%2f-oH3DzMR5xc0%2fVUjS6uNGJYI%2fAAAAAAAAFZs%2fhA46R2b5SjQ%2fs1600%2fnaan.jpg&ehk=ZI2GFumRL5jy%2bQSK0Jq5BOOdlbLtNcNd4Fr5npiMwWE%3d&risl=&pid=ImgRaw&r=0"
-      }
-    ]
-  } 
+  }
   ]
 }  
