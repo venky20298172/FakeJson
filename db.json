@@ -32,6 +32,30 @@
         "itemName": "Cool drinks",
         "price": 50,
         "itemImage":"https://th.bing.com/th/id/OIP.j6Gmqf3U_jrjhi6pl-MzvAHaFa?w=239&h=180&c=7&r=0&o=5&pid=1.7"
+      },
+      {
+        "itemId": "20",
+        "itemName": "Roti",
+        "price": 149,
+        "itemImage":"https://th.bing.com/th/id/OIP.NDzszGGe5UuZGj03QY4O1gHaLG?w=139&h=208&c=7&r=0&o=5&pid=1.7"
+      },
+      {
+        "itemId": "11",
+        "itemName": "Meals",
+        "price": 100,
+        "itemImage":"https://th.bing.com/th/id/OIP.lF8rZaKf3rG2xedG6wpOcAHaFj?w=245&h=184&c=7&r=0&o=5&pid=1.7"
+      },
+      {
+        "itemId": "22",
+        "itemName": "godavari special",
+        "price": 250,
+        "itemImage":"https://th.bing.com/th/id/OIP.vBKbGX5ag__6KtURdI7X_QHaD4?w=294&h=180&c=7&r=0&o=5&pid=1.7"
+      },
+       {
+        "itemId": "23",
+        "itemName": "vegetable palav",
+        "price": 200,
+        "itemImage":"https://th.bing.com/th/id/OIP.634QBas_vG--rQrv-tKosAHaGZ?w=201&h=180&c=7&r=0&o=5&pid=1.7"
       }
     ]
   },
@@ -45,6 +69,53 @@
     "Address":"6-3-697/1, Officers Colony, ameerpet Cross Road, Ameerpet, Hyderabad, Telangana,India-500112",
     "summary":"We prepare and serve delicious food We have a wide variety of food you can try our food once in a while.we are offering take-out and food delivery services.",
     "items": [
+      {
+        "itemId": "20",
+        "itemName": "Roti",
+        "price": 149,
+        "itemImage":"https://th.bing.com/th/id/OIP.NDzszGGe5UuZGj03QY4O1gHaLG?w=139&h=208&c=7&r=0&o=5&pid=1.7"
+      },
+      {
+        "itemId": "11",
+        "itemName": "Meals",
+        "price": 100,
+        "itemImage":"https://th.bing.com/th/id/OIP.lF8rZaKf3rG2xedG6wpOcAHaFj?w=245&h=184&c=7&r=0&o=5&pid=1.7"
+      },
+      {
+        "itemId": "22",
+        "itemName": "godavari special",
+        "price": 250,
+        "itemImage":"https://th.bing.com/th/id/OIP.vBKbGX5ag__6KtURdI7X_QHaD4?w=294&h=180&c=7&r=0&o=5&pid=1.7"
+      },
+       {
+        "itemId": "23",
+        "itemName": "vegetable palav",
+        "price": 200,
+        "itemImage":"https://th.bing.com/th/id/OIP.634QBas_vG--rQrv-tKosAHaGZ?w=201&h=180&c=7&r=0&o=5&pid=1.7"
+      }, {
+        "itemId": "10",
+        "itemName": "Chicken Biryani",
+        "price": 199,
+        "itemImage":"https://th.bing.com/th/id/OIP.9eXzCIt0Z3zl0eVcNrdccgHaHa?w=161&h=180&c=7&r=0&o=5&pid=1.7"
+      },
+      {
+        "itemId": "11",
+        "itemName": "Mutton Biryani",
+        "price": 249,
+        "itemImage":"https://th.bing.com/th/id/OIP.7nvcLt4d47aqC5-tBedbYwHaE8?w=291&h=194&c=7&r=0&o=5&pid=1.7"
+      },
+      {
+        "itemId": "12",
+        "itemName": "Veg biryani",
+        "price": 150,
+        "itemImage":"https://th.bing.com/th/id/OIP.SArkCzJ7tP3yVKMtGwj5owHaE8?w=273&h=182&c=7&r=0&o=5&pid=1.7"
+      },
+       {
+        "itemId": "13",
+        "itemName": "Cool drinks",
+        "price": 50,
+        "itemImage":"https://th.bing.com/th/id/OIP.j6Gmqf3U_jrjhi6pl-MzvAHaFa?w=239&h=180&c=7&r=0&o=5&pid=1.7"
+      },
       {
         "itemId": "20",
         "itemName": "Roti",
@@ -138,76 +209,29 @@
         "itemName": "curd rice",
         "price": 100,
         "itemImage":"https://th.bing.com/th/id/OIP._iX411dLoRxTJDL0_MInSQHaE8?w=280&h=186&c=7&r=0&o=5&pid=1.7"
-      }
-    ]
-  },
-    {
-    "id": 5,
-    "NameOfRestaurent": "Mehfil",
-    "category": "North Indian",
-    "image": "https://th.bing.com/th/id/OIP.b_d8WAWqfxAl8FUTIlIgKAHaE8?w=233&h=184&c=7&r=0&o=5&pid=1.7",
-     "rating": "3.9",
-      "Address":"6-3-697/1, Officers Colony, Punjagutta Cross Road, Punjagutta, Hyderabad, Telangana,India-500112",
-      "summary":"We prepare and serve delicious food We have a wide variety of food you can try our food once in a while.we are offering take-out and food delivery services.",
-    "items": [
-      {
-        "itemId": "30",
-        "itemName": "Biryani Bucket",
-        "price": 179,
-        "itemImage":"https://th.bing.com/th/id/OIP.MCD4MBiV83pdEX1NFzwE8wHaE8?w=291&h=194&c=7&r=0&o=5&pid=1.7"
+      },{
+        "itemId": "20",
+        "itemName": "Roti",
+        "price": 149,
+        "itemImage":"https://th.bing.com/th/id/OIP.NDzszGGe5UuZGj03QY4O1gHaLG?w=139&h=208&c=7&r=0&o=5&pid=1.7"
       },
       {
-        "itemId": "31",
-        "itemName": "mutton biryani",
-        "price": 399,
-        "itemImage":"https://th.bing.com/th/id/OIP.jSzb7U-wnYhc7rXw3E0aCwHaE8?w=303&h=202&c=7&r=0&o=5&pid=1.7"
+        "itemId": "11",
+        "itemName": "Meals",
+        "price": 100,
+        "itemImage":"https://th.bing.com/th/id/OIP.lF8rZaKf3rG2xedG6wpOcAHaFj?w=245&h=184&c=7&r=0&o=5&pid=1.7"
       },
       {
-        "itemId": "32",
-        "itemName": "Hyderabad biryani",
+        "itemId": "22",
+        "itemName": "godavari special",
         "price": 250,
-        "itemImage":"https://th.bing.com/th/id/OIP.RJpS10DzorALjaFbzurmTgHaE9?w=268&h=180&c=7&r=0&o=5&pid=1.7"
+        "itemImage":"https://th.bing.com/th/id/OIP.vBKbGX5ag__6KtURdI7X_QHaD4?w=294&h=180&c=7&r=0&o=5&pid=1.7"
       },
        {
-        "itemId": "33",
-        "itemName": "curd rice",
-        "price": 90,
-        "itemImage":"https://th.bing.com/th/id/OIP._iX411dLoRxTJDL0_MInSQHaE8?w=280&h=186&c=7&r=0&o=5&pid=1.7"
-      }
-    ]
-  },
-    {
-    "id": 6,
-    "NameOfRestaurent": "Meridian",
-    "category": "All Mandi's",
-    "image": "https://th.bing.com/th/id/OIP.F8B0jCbC-006p8SXFYb5CwHaEK?w=286&h=180&c=7&r=0&o=5&pid=1.7",
-    "rating": "4.7",
-     "Address":"6-3-697/1, Officers Colony, Punjagutta Cross Road, Punjagutta, Hyderabad, Telangana,India-500112",
-      "summary":"We prepare and serve delicious food We have a wide variety of food you can try our food once in a while.we are offering take-out and food delivery services.",
-    "items": [
-      {
-        "itemId": "30",
-        "itemName": "Mutton mandi",
-        "price": 499,
-        "itemImage":"https://th.bing.com/th/id/OIP.18Xq4OLJOpCeKtD4AMpHrwHaFj?w=225&h=180&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "31",
-        "itemName": "Chicken mandi",
-        "price": 400,
-        "itemImage":"https://th.bing.com/th/id/OIP.5GC9FgtWrv2sWLmz5sjOtwHaFj?w=260&h=194&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "32",
-        "itemName": "fish mandi",
-        "price": 250,
-        "itemImage":"https://th.bing.com/th/id/OIP.xN9XJx2czhoCCd1kgz8tgQHaEE?w=293&h=180&c=7&r=0&o=5&pid=1.7"
-      },
-       {
-        "itemId": "33",
-        "itemName": "Cool Drinks",
-        "price": 900,
-        "itemImage":"https://th.bing.com/th/id/OIP.j6Gmqf3U_jrjhi6pl-MzvAHaFa?w=239&h=180&c=7&r=0&o=5&pid=1.7"
+        "itemId": "23",
+        "itemName": "vegetable palav",
+        "price": 200,
+        "itemImage":"https://th.bing.com/th/id/OIP.634QBas_vG--rQrv-tKosAHaGZ?w=201&h=180&c=7&r=0&o=5&pid=1.7"
       }
     ]
   }
