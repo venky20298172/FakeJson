@@ -9,7 +9,8 @@
      "Address":"6-3-697/1, Officers Colony, Punjagutta Cross Road, Punjagutta, Hyderabad, Telangana,India-500112",
      "summary":"We prepare and serve delicious food We have a wide variety of food you can try our food once in a while.we are offering take-out and food delivery services.",
     "items": [
-                "itemId": "30",
+      {
+                 "itemId": "30",
                 "itemName": "Mutton mandi",
                 "price": 499,
                 "category":"nonveg",
