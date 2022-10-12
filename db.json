@@ -9,54 +9,100 @@
      "Address":"6-3-697/1, Officers Colony, Punjagutta Cross Road, Punjagutta, Hyderabad, Telangana,India-500112",
      "summary":"We prepare and serve delicious food We have a wide variety of food you can try our food once in a while.we are offering take-out and food delivery services.",
     "items": [
-      {
-        "itemId": "10",
-        "itemName": "Chicken Biryani",
-        "price": 199,
-        "itemImage":"https://th.bing.com/th/id/OIP.9eXzCIt0Z3zl0eVcNrdccgHaHa?w=161&h=180&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "11",
-        "itemName": "Mutton Biryani",
-        "price": 249,
-        "itemImage":"https://th.bing.com/th/id/OIP.7nvcLt4d47aqC5-tBedbYwHaE8?w=291&h=194&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "12",
-        "itemName": "Veg biryani",
-        "price": 150,
-        "itemImage":"https://th.bing.com/th/id/OIP.SArkCzJ7tP3yVKMtGwj5owHaE8?w=273&h=182&c=7&r=0&o=5&pid=1.7"
-      },
-       {
-        "itemId": "13",
-        "itemName": "Cool drinks",
-        "price": 50,
-        "itemImage":"https://th.bing.com/th/id/OIP.j6Gmqf3U_jrjhi6pl-MzvAHaFa?w=239&h=180&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "20",
-        "itemName": "Roti",
-        "price": 149,
-        "itemImage":"https://th.bing.com/th/id/OIP.NDzszGGe5UuZGj03QY4O1gHaLG?w=139&h=208&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "11",
-        "itemName": "Meals",
-        "price": 100,
-        "itemImage":"https://th.bing.com/th/id/OIP.lF8rZaKf3rG2xedG6wpOcAHaFj?w=245&h=184&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "22",
-        "itemName": "godavari special",
-        "price": 250,
-        "itemImage":"https://th.bing.com/th/id/OIP.vBKbGX5ag__6KtURdI7X_QHaD4?w=294&h=180&c=7&r=0&o=5&pid=1.7"
-      },
-       {
-        "itemId": "23",
-        "itemName": "vegetable palav",
-        "price": 200,
-        "itemImage":"https://th.bing.com/th/id/OIP.634QBas_vG--rQrv-tKosAHaGZ?w=201&h=180&c=7&r=0&o=5&pid=1.7"
-      }
+                "itemId": "30",
+                "itemName": "Mutton mandi",
+                "price": 499,
+                "category":"nonveg",
+                "itemImage":"https://th.bing.com/th/id/OIP.18Xq4OLJOpCeKtD4AMpHrwHaFj?w=225&h=180&c=7&r=0&o=5&pid=1.7"
+              },
+              {
+                "itemId": "31",
+                "itemName": "Chicken mandi",
+                "price": 400,
+                "category":"nonveg",
+                "itemImage":"https://th.bing.com/th/id/OIP.5GC9FgtWrv2sWLmz5sjOtwHaFj?w=260&h=194&c=7&r=0&o=5&pid=1.7"
+              },
+              {
+                "itemId": "32",
+                "itemName": "fish mandi",
+                "price": 250,
+                "category":"nonveg",
+                "itemImage":"https://th.bing.com/th/id/OIP.xN9XJx2czhoCCd1kgz8tgQHaEE?w=293&h=180&c=7&r=0&o=5&pid=1.7"
+              },
+               {
+                "itemId": "33",
+                "itemName": "Cool Drinks",
+                "price": 900,
+                "category":"pureveg",
+                "itemImage":"https://th.bing.com/th/id/OIP.j6Gmqf3U_jrjhi6pl-MzvAHaFa?w=239&h=180&c=7&r=0&o=5&pid=1.7"
+              },
+              {
+                "itemId": "32",
+                "itemName": "Andhra Traditional Meals",
+                "price": 100,
+                "category":"meals,pureveg",
+                "itemImage": "https://th.bing.com/th/id/OIP.NmQg6KRKYZ8C7xx1AAhlcQHaIw?w=145&h=180&c=7&r=0&o=5&pid=1.7",      
+                  },
+            {
+                "itemId": "33",
+                "itemName": "Veg Meals",
+                "price": 75,
+                "category":"meals,pureveg",
+                "itemImage": "https://th.bing.com/th/id/OIP.tMAp-VsLL3ekhgvs8Z0hYwHaE8?w=265&h=180&c=7&r=0&o=5&pid=1.7",
+            },
+            {
+                "itemId": "33",
+                "itemName": "Thali",
+                "price": 75,
+                "category":"meals,pureveg",
+                "itemImage": "https://www.bing.com/th?id=OIP.7nsp0j2AfkmNv56p0CiWIwHaHV&w=251&h=248&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+            },
+            {
+                "itemId": "33",
+                "itemName": "curd rice",
+                "price": 90,
+                "category":"meals,pureveg",
+                "itemImage":"https://th.bing.com/th/id/OIP._iX411dLoRxTJDL0_MInSQHaE8?w=280&h=186&c=7&r=0&o=5&pid=1.7"
+              },
+              
+            {
+                "itemId": "33",
+                "itemName": "pappu",
+                "price": 35,
+                "category":"pureveg",
+                "itemImage": "https://th.bing.com/th/id/OIP.lF41v1GIq-hSI2luU_Y8wgAAAA?w=260&h=195&c=7&r=0&o=5&pid=1.7",
+            },
+            {
+                "itemId": "33",
+                "itemName": "sambar",
+                "price": 25,
+                "category":"pureveg",
+                "itemImage": "https://www.bing.com/th?id=OIP.NYTr2Vka-X9aFw-FSNC2bAHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+            },
+            {
+                "itemId": "33",
+                "itemName": "Full meals",
+                "price": 105,
+                "category":"pureveg",
+                "itemImage": "https://th.bing.com/th/id/OIP.824B_OmARjQVrCsHwyMbxgHaFc?w=185&h=136&c=7&r=0&o=5&pid=1.7",
+              
+            },
+            {
+                "itemId": "33",
+                "itemName": "vegetable Rice",
+                "price": 110,
+                "category":"pureveg",
+                "itemImage": "https://th.bing.com/th/id/OIP.ljXK_K-HY0bGFLuX0b1oJwHaGd?w=202&h=180&c=7&r=0&o=5&pid=1.7",
+              
+            },
+            {
+                "itemId": "33",
+                "itemName": "veg Curry",
+                "price": 90,
+                "category":"pureveg",
+                "itemImage": "https://th.bing.com/th/id/OIP.QaeQzTwArt9AcUnONgv13wHaJq?w=185&h=242&c=7&r=0&o=5&pid=1.7",
+              
+            }
     ]
   },
   
@@ -70,76 +116,156 @@
     "summary":"We prepare and serve delicious food We have a wide variety of food you can try our food once in a while.we are offering take-out and food delivery services.",
     "items": [
       {
-        "itemId": "20",
-        "itemName": "Roti",
-        "price": 149,
-        "itemImage":"https://th.bing.com/th/id/OIP.NDzszGGe5UuZGj03QY4O1gHaLG?w=139&h=208&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "11",
-        "itemName": "Meals",
-        "price": 100,
-        "itemImage":"https://th.bing.com/th/id/OIP.lF8rZaKf3rG2xedG6wpOcAHaFj?w=245&h=184&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "22",
-        "itemName": "godavari special",
-        "price": 250,
-        "itemImage":"https://th.bing.com/th/id/OIP.vBKbGX5ag__6KtURdI7X_QHaD4?w=294&h=180&c=7&r=0&o=5&pid=1.7"
-      },
-       {
-        "itemId": "23",
-        "itemName": "vegetable palav",
-        "price": 200,
-        "itemImage":"https://th.bing.com/th/id/OIP.634QBas_vG--rQrv-tKosAHaGZ?w=201&h=180&c=7&r=0&o=5&pid=1.7"
-      }, {
-        "itemId": "10",
-        "itemName": "Chicken Biryani",
-        "price": 199,
-        "itemImage":"https://th.bing.com/th/id/OIP.9eXzCIt0Z3zl0eVcNrdccgHaHa?w=161&h=180&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "11",
-        "itemName": "Mutton Biryani",
-        "price": 249,
-        "itemImage":"https://th.bing.com/th/id/OIP.7nvcLt4d47aqC5-tBedbYwHaE8?w=291&h=194&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "12",
-        "itemName": "Veg biryani",
-        "price": 150,
-        "itemImage":"https://th.bing.com/th/id/OIP.SArkCzJ7tP3yVKMtGwj5owHaE8?w=273&h=182&c=7&r=0&o=5&pid=1.7"
-      },
-       {
-        "itemId": "13",
-        "itemName": "Cool drinks",
-        "price": 50,
-        "itemImage":"https://th.bing.com/th/id/OIP.j6Gmqf3U_jrjhi6pl-MzvAHaFa?w=239&h=180&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "20",
-        "itemName": "Roti",
-        "price": 149,
-        "itemImage":"https://th.bing.com/th/id/OIP.NDzszGGe5UuZGj03QY4O1gHaLG?w=139&h=208&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "11",
-        "itemName": "Meals",
-        "price": 100,
-        "itemImage":"https://th.bing.com/th/id/OIP.lF8rZaKf3rG2xedG6wpOcAHaFj?w=245&h=184&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "22",
-        "itemName": "godavari special",
-        "price": 250,
-        "itemImage":"https://th.bing.com/th/id/OIP.vBKbGX5ag__6KtURdI7X_QHaD4?w=294&h=180&c=7&r=0&o=5&pid=1.7"
-      },
-       {
-        "itemId": "23",
-        "itemName": "vegetable palav",
-        "price": 200,
-        "itemImage":"https://th.bing.com/th/id/OIP.634QBas_vG--rQrv-tKosAHaGZ?w=201&h=180&c=7&r=0&o=5&pid=1.7"
-      }
+              "itemId": "30",
+              "itemName": "Biryani Bucket",
+              "price": 179,
+              "category":"nonveg,biryani",
+              "itemImage":"https://th.bing.com/th/id/OIP.MCD4MBiV83pdEX1NFzwE8wHaE8?w=291&h=194&c=7&r=0&o=5&pid=1.7"
+            },
+            {
+              "itemId": "31",
+              "itemName": "mutton biryani",
+              "price": 399,
+              "category":"nonveg",
+              "itemImage":"https://th.bing.com/th/id/OIP.jSzb7U-wnYhc7rXw3E0aCwHaE8?w=303&h=202&c=7&r=0&o=5&pid=1.7"
+            },
+            {
+              "itemId": "33",
+              "itemName": "sambar",
+              "price": 25,
+              "category":"pureveg",
+              "itemImage": "https://www.bing.com/th?id=OIP.NYTr2Vka-X9aFw-FSNC2bAHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+          },
+          {
+              "itemId": "33",
+              "itemName": "Full meals",
+              "price": 105,
+              "category":"pureveg",
+              "itemImage": "https://th.bing.com/th/id/OIP.824B_OmARjQVrCsHwyMbxgHaFc?w=185&h=136&c=7&r=0&o=5&pid=1.7",
+            
+          },
+            {
+              "itemId": "32",
+              "itemName": "Hyderabad biryani",
+              "price": 250,
+              "category":"nonveg",
+              "itemImage":"https://th.bing.com/th/id/OIP.RJpS10DzorALjaFbzurmTgHaE9?w=268&h=180&c=7&r=0&o=5&pid=1.7"
+            },
+             {
+              "itemId": "33",
+              "itemName": "curd rice",
+              "price": 90,
+              "category":"meals,pureveg",
+              "itemImage":"https://th.bing.com/th/id/OIP._iX411dLoRxTJDL0_MInSQHaE8?w=280&h=186&c=7&r=0&o=5&pid=1.7"
+            },
+            {
+              "itemId": "32",
+              "itemName": "Andhra Traditional Meals",
+              "price": 100,
+              "category":"meals,pureveg",
+              "itemImage": "https://th.bing.com/th/id/OIP.NmQg6KRKYZ8C7xx1AAhlcQHaIw?w=145&h=180&c=7&r=0&o=5&pid=1.7",      
+                },
+          {
+              "itemId": "33",
+              "itemName": "Veg Meals",
+              "price": 75,
+              "category":"meals,pureveg",
+              "itemImage": "https://th.bing.com/th/id/OIP.tMAp-VsLL3ekhgvs8Z0hYwHaE8?w=265&h=180&c=7&r=0&o=5&pid=1.7",
+          },
+          {
+              "itemId": "33",
+              "itemName": "Thali",
+              "price": 75,
+              'category':"meals,pureveg",
+              "itemImage": "https://www.bing.com/th?id=OIP.7nsp0j2AfkmNv56p0CiWIwHaHV&w=251&h=248&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+          },
+          {
+              "itemId": "33",
+              "itemName": "pappu",
+              "price": 35,
+              "category":"pureveg",
+              "itemImage": "https://th.bing.com/th/id/OIP.lF41v1GIq-hSI2luU_Y8wgAAAA?w=260&h=195&c=7&r=0&o=5&pid=1.7",
+          },
+          {
+              "itemId": "30",
+              "itemName": "Plain Dosa",
+              "price": 30,
+              "category":"breakfast,pureveg",
+              "itemImage": "https://th.bing.com/th/id/OIP.-1H4WutmHWjp2QocXlOlYQHaHa?pid=ImgDet&rs=1",
+          }
+          ,
+          {
+              "itemId": "33",
+              "itemName": "sambar",
+              "price": 25,
+              "category":"pureveg",
+              "itemImage": "https://www.bing.com/th?id=OIP.NYTr2Vka-X9aFw-FSNC2bAHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+          },
+          {
+              "itemId": "33",
+              "itemName": "Full meals",
+              "price": 110,
+              "category":"pureveg",
+              "itemImage": "https://th.bing.com/th/id/OIP.824B_OmARjQVrCsHwyMbxgHaFc?w=185&h=136&c=7&r=0&o=5&pid=1.7",
+            
+          },
+          {
+              "itemId": "33",
+              "itemName": "vegetable Rice",
+              "price": 100,
+              "category":"pureveg",
+              "itemImage": "https://th.bing.com/th/id/OIP.ljXK_K-HY0bGFLuX0b1oJwHaGd?w=202&h=180&c=7&r=0&o=5&pid=1.7",
+            
+          },
+          {
+              "itemId": "31",
+              "itemName": "Onion Dosa",
+              "price": 40,
+              "category":"breakfast,pureveg",
+              "itemImage": "https://th.bing.com/th/id/OIP.qDq9rcRr-tGQQ63r-w3L2QHaE5?w=264&h=180&c=7&r=0&o=5&pid=1.7",
+          },
+          {
+              "itemId": "32",
+              "itemName": "Idli",
+              "price": 20,
+              "category":"breakfast,pureveg",
+              "itemImage": "https://th.bing.com/th/id/OIP.rs2QIS5IPCC_34BoIQLaMAHaE7?w=284&h=189&c=7&r=0&o=5&pid=1.7",
+          },
+          {
+              "itemId": "33",
+              "itemName": "puri",
+              "price": 40,
+              "category":"breakfast,pureveg",
+              "itemImage": "https://th.bing.com/th/id/OIP.76LsWDnpcm44AhYFXQnpGAHaFj?w=223&h=180&c=7&r=0&o=5&pid=1.7",
+          },
+          {
+              "itemId": "20",
+              "itemName": "Kaju Biryani",
+              "price": 149,
+              "category":"meals,pureveg",
+              "itemImage": "https://th.bing.com/th/id/OIP.fNYs7qbzZYsH-RuQRhruvAAAAA?w=168&h=180&c=7&r=0&o=5&pid=1.7",
+          },
+          {
+              "itemId": "11",
+              "itemName": "chicken 65",
+              "price": 200,
+              "category":"nonveg",
+              "itemImage": "https://th.bing.com/th/id/OIP.fNYs7qbzZYsH-RuQRhruvAAAAA?w=168&h=180&c=7&r=0&o=5&pid=1.7",
+          },
+          {
+              "itemId": "22",
+              "itemName": "chicken dum biryani",
+              "price": 250,
+              "category":"nonveg",
+              "itemImage": "https://th.bing.com/th/id/OIP.fNYs7qbzZYsH-RuQRhruvAAAAA?w=168&h=180&c=7&r=0&o=5&pid=1.7",
+          },
+          {
+              "itemId": "23",
+              "itemName": "Plain Biryani",
+              "price": 200,
+              "category":"pureveg",
+              "itemImage": "https://th.bing.com/th/id/OIP.vTVgCaun2Ydqz00d9J4DhwHaFO?w=252&h=180&c=7&r=0&o=5&pid=1.7",
+          }
     ]
   },
   {
@@ -177,63 +303,6 @@
       }
     ]
   },
-    {
-    "id": 4,
-    "NameOfRestaurent": "Paradise",
-    "category": "Biryani,North Indian",
-    "image": "https://th.bing.com/th/id/OIP.2zn2XPnBr-i8P-TmZqGKQgHaE8?w=246&h=180&c=7&r=0&o=5&pid=1.7",
-    "rating": "4.0",
-     "Address":"6-3-697/1, wipro circle,gachiBowli, Hyderabad, Telangana,India-500112",
-      "summary":"We prepare and serve delicious food We have a wide variety of food you can try our food once in a while.we are offering take-out and food delivery services.",
-    "items": [
-      {
-        "itemId": "30",
-        "itemName": "kabab",
-        "price": 179,
-        "itemImage":"https://th.bing.com/th/id/OIP.Yv72zPWUZFl4Y5nr2LW0bgHaJG?w=185&h=228&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "31",
-        "itemName": "Tanduri roti",
-        "price": 90,
-        "itemImage":"https://th.bing.com/th/id/OIP.g9gREYED3rjvW7wjdp5CawHaE7?w=258&h=180&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "32",
-        "itemName": "kaju paneer",
-        "price": 250,
-        "itemImage":"https://th.bing.com/th/id/OIP.nBtB3q5QABw1_lygnZDG8gHaHa?w=189&h=189&c=7&r=0&o=5&pid=1.7"
-      },
-       {
-        "itemId": "33",
-        "itemName": "curd rice",
-        "price": 100,
-        "itemImage":"https://th.bing.com/th/id/OIP._iX411dLoRxTJDL0_MInSQHaE8?w=280&h=186&c=7&r=0&o=5&pid=1.7"
-      },{
-        "itemId": "20",
-        "itemName": "Roti",
-        "price": 149,
-        "itemImage":"https://th.bing.com/th/id/OIP.NDzszGGe5UuZGj03QY4O1gHaLG?w=139&h=208&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "11",
-        "itemName": "Meals",
-        "price": 100,
-        "itemImage":"https://th.bing.com/th/id/OIP.lF8rZaKf3rG2xedG6wpOcAHaFj?w=245&h=184&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "22",
-        "itemName": "godavari special",
-        "price": 250,
-        "itemImage":"https://th.bing.com/th/id/OIP.vBKbGX5ag__6KtURdI7X_QHaD4?w=294&h=180&c=7&r=0&o=5&pid=1.7"
-      },
-       {
-        "itemId": "23",
-        "itemName": "vegetable palav",
-        "price": 200,
-        "itemImage":"https://th.bing.com/th/id/OIP.634QBas_vG--rQrv-tKosAHaGZ?w=201&h=180&c=7&r=0&o=5&pid=1.7"
-      }
-    ]
-  }
+    
   ]
 }  
