@@ -177,7 +177,7 @@
               "itemId": "33",
               "itemName": "Thali",
               "price": 75,
-              'category':"meals,pureveg",
+              "category":"meals,pureveg",
               "itemImage": "https://www.bing.com/th?id=OIP.7nsp0j2AfkmNv56p0CiWIwHaHV&w=251&h=248&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
           },
           {
@@ -268,42 +268,6 @@
               "itemImage": "https://th.bing.com/th/id/OIP.vTVgCaun2Ydqz00d9J4DhwHaFO?w=252&h=180&c=7&r=0&o=5&pid=1.7",
           }
     ]
-  },
-  {
-    "id": 3,
-    "NameOfRestaurent": "Beach Restaurent",
-    "category": "Sea Food",
-    "image": "https://th.bing.com/th/id/OIP.zuDGho0wi6od0Lt2UQ1T5QHaJ4?w=153&h=204&c=7&r=0&o=5&pid=1.7",
-    "rating": "4.5",
-    "Address":"6-3-697/1, new Colony, kphb, Hyderabad, Telangana,India-500112",
-    "summary":"We prepare and serve delicious food We have a wide variety of food you can try our food once in a while.we are offering take-out and food delivery services.",
-    "items": [
-      {
-        "itemId": "30",
-        "itemName": "Fish Curry",
-        "price": 179,
-        "itemImage":"https://th.bing.com/th/id/OIP.DlrYNJg4bt3cn4Xr5R5gsQHaE7?w=266&h=180&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "31",
-        "itemName": "Prawns Biryani",
-        "price": 400,
-        "itemImage":"https://th.bing.com/th/id/OIP.wbwi93B1NPLxNERorROdtAHaHa?w=167&h=180&c=7&r=0&o=5&pid=1.7"
-      },
-      {
-        "itemId": "32",
-        "itemName": "Hyderabad biryani",
-        "price": 250,
-        "itemImage":"https://th.bing.com/th/id/OIP.wbwi93B1NPLxNERorROdtAHaHa?w=167&h=180&c=7&r=0&o=5&pid=1.7"
-      },
-       {
-        "itemId": "33",
-        "itemName": "Fish & prawns mandi",
-        "price": 900,
-        "itemImage":"https://th.bing.com/th/id/OIP.iS39TQhBfuwG5abTvLKYBwHaFp?w=196&h=180&c=7&r=0&o=5&pid=1.7"
-      }
-    ]
-  },
-    
+  } 
   ]
 }  
