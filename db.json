@@ -230,18 +230,6 @@
               "price": 20,
               "category":"breakfast,pureveg",
               "itemImage": "https://th.bing.com/th/id/OIP.rs2QIS5IPCC_34BoIQLaMAHaE7?w=284&h=189&c=7&r=0&o=5&pid=1.7",
-          }, {
-              "itemId": "33",
-              "itemName": "puri",
-              "price": 40,
-              "category":"breakfast,pureveg",
-              "itemImage": "https://th.bing.com/th/id/OIP.76LsWDnpcm44AhYFXQnpGAHaFj?w=223&h=180&c=7&r=0&o=5&pid=1.7",
-          },{
-              "itemId": "20",
-              "itemName": "Kaju Biryani",
-              "price": 149,
-              "category":"meals,pureveg",
-              "itemImage": "https://th.bing.com/th/id/OIP.fNYs7qbzZYsH-RuQRhruvAAAAA?w=168&h=180&c=7&r=0&o=5&pid=1.7",
           }
     ]
   } 
